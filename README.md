@@ -86,6 +86,11 @@ RegisterNumber: 24900508
 
 ![image](https://github.com/user-attachments/assets/622a1b94-15c7-44fd-a271-997913e62d83)
 
+**BASIC DATA MOVEMENT THROUGH A SHIFT REGISTER**
+
+![image](https://github.com/user-attachments/assets/25007fd4-ff85-4dc3-99b7-6c2b5c7f4b32)
+
+
 **RESULTS**
 
 Thus, the Serial-In Serial-Out (SISO) Shift Register is implemented using Verilog, and its functionality is validated with the truth table and timing diagrams
